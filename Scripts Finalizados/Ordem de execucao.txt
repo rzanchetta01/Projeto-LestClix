@@ -1,0 +1,7 @@
+1: Abrir Script Criacao
+2: Usar o comando 'create database' apenas
+3: Usar todos os comandos restantes da pagina
+4: Abrir Script Inserts
+5: Usar todos os comandos da pagina
+6: Abrir Script Consultas
+7: Usar todos os comandos da pagina
